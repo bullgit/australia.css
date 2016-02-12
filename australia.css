@@ -5,7 +5,7 @@
  * @license WTFPL Do What The Fuck You Want Public License
  * @version 0.1
  */
-h1, h2, h3, h4, h5, h5, p, dt, dd, li, blockquote{
+h1, h2, h3, h4, h5, h5, p, dt, dd, li, blockquote, a{
   -webkit-transform:rotate(-180deg);
   -moz-transform:rotate(-180deg);
   -o-transform:rotate(-180deg);
